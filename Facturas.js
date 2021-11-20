@@ -1,4 +1,4 @@
-var UrlGetfacturas = 'http://localhost:90/G6_19old/Controller/ma_facturas.php?op=GetFacturas';
+var UrlGetfacturas = 'http://localhost:90/G6_19/Controller/ma_facturas.php?op=GetFacturas';
 var UrlPostfacturas ='http://localhost:90/G6_19/Controller/ma_facturas.php?op=InsertFactura';
 var UrlPostIDfacturas ='http://localhost:90/G6_19/Controller/ma_facturas.php?op=GetFactura';
 var UrlPutfacturas ='http://localhost:90/G6_19/Controller/ma_facturas.php?op=UpdateFactura';
